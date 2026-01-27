@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I’m Ruth Chika 👋  
 
-<!--
-**Ruth-Chika/Ruth-Chika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Analyst | Business Operations & Digital Analytics**  
+I analyze real-world business problems using data and build dashboards that support better decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 About Me  
+
+I’m a junior data analyst focused on:  
+- Digital transformation & business readiness  
+- Customer experience & operations analytics  
+- Data cleaning, analysis, and visualization  
+
+I enjoy turning messy business data into clear insights that founders and teams can actually use.
+
+---
+
+## 🛠 Tools & Skills  
+
+- SQL (data cleaning, joins, aggregation)  
+- Power BI (dashboards, DAX, data modeling)  
+- Excel (analysis, preparation, reporting)  
+- Python (beginner – data cleaning & automation)  
+
+---
+
+## 📊 Portfolio Projects  
+
+### 1️⃣ Business Digital Readiness Dashboard  
+**Tech:** SQL, Power BI  
+Analyzes how digitally prepared 100 local businesses in Abuja are and how digital adoption impacts customer experience.
+
+🔗 Repo: *(you’ll add the link after recreating it)*  
+
+---
+
+### 2️⃣ Optimization of Medicare General Hospital Operations  
+**Tech:** Power BI, Python  
+Analyzes churn drivers and customer behavior in a retail banking dataset.
+
+🔗 Repo: *(add later)*  
+
+---
+
+### 3️⃣ SaaS Trial Conversion Analysis *(coming soon)*  
+**Tech:** SQL, Power BI  
+Explores what drives trial users to become paying customers.
+
+---
+
+## 📬 Contact  
+
+- LinkedIn: (www.linkedin.com/in/ruth-chika)  
+- GitHub: https://github.com/Ruth-Chika  
