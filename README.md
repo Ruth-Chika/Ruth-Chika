@@ -31,7 +31,7 @@ I enjoy turning messy business data into clear insights that founders and teams 
 **Tech:** SQL, Power BI  
 Analyzes how digitally prepared 100 local businesses in Abuja are and how digital adoption impacts customer experience.
 
-🔗 Repo: *(you’ll add the link after recreating it)*  
+🔗 Repo: *(https://github.com/Ruth-Chika/business-digital-readiness)*  
 
 ---
 
