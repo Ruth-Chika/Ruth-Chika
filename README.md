@@ -39,7 +39,7 @@ Analyzes how digitally prepared 100 local businesses in Abuja are and how digita
 **Tech:** Power BI, Python  
 Analyzes churn drivers and customer behavior in a retail banking dataset.
 
-🔗 Repo: *(add later)*  
+🔗 Repo: *(https://github.com/Ruth-Chika/Optimizing-Medicare-General-Hospital-Operations-Using-Data-Analytics)*  
 
 ---
 
