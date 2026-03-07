@@ -43,12 +43,6 @@ Analyzes churn drivers and customer behavior in a retail banking dataset.
 
 ---
 
-### 3️⃣ SaaS Trial Conversion Analysis *(coming soon)*  
-**Tech:** SQL, Power BI  
-Explores what drives trial users to become paying customers.
-
----
-
 ## 📬 Contact  
 
 - LinkedIn: (www.linkedin.com/in/ruth-chika)  
