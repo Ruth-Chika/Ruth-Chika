@@ -1,49 +1,60 @@
-# Hi, I’m Ruth Chika 👋  
+# Hi, I'm Ruth Chika 👋
+**Data Analyst | Excel · SQL · Power BI**
 
-**Junior Data Analyst | Business Operations & Digital Analytics**  
-I analyze real-world business problems using data and build dashboards that support better decisions.
-
----
-
-## 🔎 About Me  
-
-I’m a junior data analyst focused on:  
-- Digital transformation & business readiness  
-- Customer experience & operations analytics  
-- Data cleaning, analysis, and visualization  
-
-I enjoy turning messy business data into clear insights that founders and teams can actually use.
+I build end-to-end analytics projects — from raw data to dashboard —
+and document the full process publicly so other learners can follow along.
 
 ---
 
-## 🛠 Tools & Skills  
+## 📊 Portfolio Projects
 
-- SQL (data cleaning, joins, aggregation)  
-- Power BI (dashboards, DAX, data modeling)  
-- Excel (analysis, preparation, reporting)  
-- Python (beginner – data cleaning & automation)  
+### 1️⃣ CRM Sales Pipeline Analysis
+**Tech:** Excel · Power Pivot · DAX
+Built an interactive Excel dashboard tracking a B2B sales pipeline from
+lead to close. Created DAX measures for win rate, average deal size, and
+revenue by rep using a Power Pivot data model.
 
----
-
-## 📊 Portfolio Projects  
-
-### 1️⃣ Business Digital Readiness Dashboard  
-**Tech:** SQL, Power BI  
-Analyzes how digitally prepared 100 local businesses in Abuja are and how digital adoption impacts customer experience.
-
-🔗 Repo: *(https://github.com/Ruth-Chika/business-digital-readiness)*  
+🔗 [github.com/Ruth-Chika/crm-sales-pipeline-analysis](https://github.com/Ruth-Chika/crm-sales-pipeline-analysis)
 
 ---
 
-### 2️⃣ Optimization of Medicare General Hospital Operations  
-**Tech:** Power BI, Python  
-Analyzes churn drivers and customer behavior in a retail banking dataset.
+### 2️⃣ Sales & Internet Analysis
+**Tech:** SQL Server · Power BI
+Used SQL Server to extract and clean raw sales data, then built
+interactive Power BI dashboards to visualize performance trends and
+surface actionable insights.
 
-🔗 Repo: *(https://github.com/Ruth-Chika/Optimizing-Medicare-General-Hospital-Operations-Using-Data-Analytics)*  
+🔗 [github.com/Ruth-Chika/sales-internet-analysis-sql-powerbi](https://github.com/Ruth-Chika/sales-internet-analysis-sql-powerbi)
 
 ---
 
-## 📬 Contact  
+### 3️⃣ Business Digital Readiness Dashboard
+**Tech:** SQL · Power BI
+Analyzes how digitally prepared local businesses in Abuja are and how
+digital adoption impacts customer experience.
 
-- LinkedIn: (www.linkedin.com/in/ruth-chika)  
-- GitHub: https://github.com/Ruth-Chika  
+🔗 [github.com/Ruth-Chika/business-digital-readiness](https://github.com/Ruth-Chika/business-digital-readiness)
+
+---
+
+## 🔎 About Me
+I'm currently completing a self-directed 120-day public portfolio
+challenge — building real projects, publishing everything to GitHub,
+and sharing the honest learning journey on LinkedIn and X.
+
+Background in banking operations (6 years at FCMB) gave me a grounded
+understanding of how data moves through real business processes.
+
+---
+
+## 🛠 Tools & Skills
+- **Excel** — Power Pivot, DAX, PivotTables, dashboard design
+- **SQL** — querying, aggregation, filtering, data cleaning (SQL Server, SQLite)
+- **Power BI** — dashboards, DAX measures, data modeling
+- **Python** — beginner, data cleaning & automation
+
+---
+
+## 📬 Contact
+- LinkedIn: [linkedin.com/in/ruth-chika](https://www.linkedin.com/in/ruth-chika)
+- GitHub: [github.com/Ruth-Chika](https://github.com/Ruth-Chika)
