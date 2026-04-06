@@ -53,6 +53,13 @@ experience. Nigerian data, Nigerian context. That matters to me.
 
 ---
 
+### 4️⃣ E-Commerce Performance Analysis
+**Tech:** Power Query · Power BI
+**Type:** Guided project
+A retail company operating across three markets had 7,000 rows of transaction data that was genuinely one of the messiest datasets I have worked with. Mixed currencies, four different date formats, text hiding inside number columns, emojis in text fields. I cleaned everything in Power Query and built a two-page interactive dashboard tracking sales performance, fulfilment rates, and customer experience across GB, NG, and US.
+This one taught me that most of the real work happens before you even build a single visual.
+🔗 [View project](https://github.com/Ruth-Chika/ecommerce-performance-analysis)
+
 ## 🛠 What I work with
 - **Excel** including Power Pivot and DAX
 - **SQL** on SQL Server and SQLite
